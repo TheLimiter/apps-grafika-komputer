@@ -61,6 +61,22 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            footer {
+                position: relative;
+                height: 100px;
+                width: 100%;
+                background-color: #333333;
+            }
+
+        p.footer-copyright {
+            position: fixed;
+            width: 100%;
+            color: #fff;
+            line-height: 40px;
+            font-size: 1em;
+            text-align: center;
+            bottom:0;
+        }
         </style>
     </head>
     <body>
@@ -91,5 +107,15 @@
                 </div>
             </div>
         </div>
+        
+        <footer class="page-footer font-small blue">
+        <center>
+            <!-- Copyright -->
+            <p class="footer-copyright text-center py-3">© 2019 Rifqi-Reza                
+            </p>
+            <!-- Copyright -->
+
+        </center>
+        </footer>
     </body>
 </html>
