@@ -17,3 +17,5 @@ Route::get('/', function () {
 
 
 Route::get('/lingkaran', ['uses' => 'lingkaran@index']);
+Route::get('/dda', ['uses' => 'dda@index']);
+Route::get('/bresenhem', ['uses' => 'bresenhem@index']);

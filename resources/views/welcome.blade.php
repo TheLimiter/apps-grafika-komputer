@@ -84,8 +84,10 @@
                     Grafika Komputer
                 </div>
 
-                <div class="links">
-                    <a href="{{ url('lingkaran') }}">Linkaran</a>                    
+                <div class="links">                                   
+                    <a href="{{ url('dda') }}">DDA</a>                    
+                    <a href="{{ url('bresenhem') }}">Bresenhem</a>                    
+                    <a href="{{ url('lingkaran') }}">Linkaran</a>     
                 </div>
             </div>
         </div>

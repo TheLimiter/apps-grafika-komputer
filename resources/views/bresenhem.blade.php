@@ -85,7 +85,7 @@
       </li>      
       <li class="nav-item">
         <a class="nav-link" href="{{ url('lingkaran') }}">Lingkaran</a>
-      </li>            
+      </li>      
     </ul>    
   </div>
 </nav>
