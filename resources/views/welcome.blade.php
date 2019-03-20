@@ -111,7 +111,7 @@
         <footer class="page-footer font-small blue">
         <center>
             <!-- Copyright -->
-            <p class="footer-copyright text-center py-3">© 2019 Rifqi-Reza                
+            <p class="footer-copyright text-center py-3">© 2019 Rifqi Irianto-065117006 || Reza-065117082                
             </p>
             <!-- Copyright -->
 
