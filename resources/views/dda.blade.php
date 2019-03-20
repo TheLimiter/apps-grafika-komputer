@@ -186,7 +186,7 @@ $( "#target" ).submit(function( event ) {
     x = parseInt(xA);
     y = parseInt(yA);
   
-  $('#xIsi').empty();
+      $('#xIsi').empty();
       $('#yIsi').empty();
       $('#kIsi').empty();
       $('#noIsi').empty();

@@ -66,6 +66,9 @@
             .fixed {
                 position:fixed;
             }
+            .active {
+                color: rgba(255, 255, 255, 1.5);
+            }
         </style>
     </head>
     <body>
@@ -81,10 +84,10 @@
         <a class="nav-link" href="{{ url('dda') }}">DDA</a>
       </li>      
       <li class="nav-item">
-        <a class="nav-link" href="{{ url('bresenhem') }}">Bresenhem</a>
+        <a class="nav-link " href="{{ url('bresenhem') }}">Bresenhem</a>
       </li>      
       <li class="nav-item">
-        <a class="nav-link" href="{{ url('lingkaran') }}">Lingkaran</a>
+        <a class="nav-link active" href="{{ url('lingkaran') }}">Lingkaran</a>
       </li>            
     </ul>    
   </div>
