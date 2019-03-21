@@ -169,6 +169,7 @@ $( "#target" ).submit(function( event ) {
       if(p < 0){
         p = p + 2 * x + 1;                
       }else{
+        y--;
         p = p + 2 * (x-y) + 1;
       }
 
